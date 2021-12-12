@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&family=Rajdhani:wght@300;400;500;600&display=swaprel=stylesheet");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-size: 16px;
+	margin: 0px;
+	background-color: #F7F5EF;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 5px;
+}
+
+h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #39433E;
+	color: #F7F5EF;
+}
